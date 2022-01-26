@@ -1,0 +1,230 @@
+
+
+body {
+  background-color: #ffffff;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  
+  margin:0 auto; 
+  padding:0;
+  text-align:center;
+  
+}
+header {
+  background-color: #ffffff;
+  text-align:left;
+  height: 50px;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+main{
+  background-color: #b6b6b6;
+  text-align:left;
+  float: left;
+  width: 81%;
+  min-height: 1000px;
+  padding: 0 2% 2% 2%;
+  
+}
+article{
+  background-color: #b6b6b6;
+  text-align:left;
+  padding: 0;
+}
+
+
+.left_column {
+  background-color: #ffffff;
+  text-align:left;
+  float: left;
+  width: 13%;
+  min-height: 1000px;
+  padding: 1%;
+}
+.right_column {
+  background-color: #ffffff;
+  text-align:left;
+  float: left;
+  width: 13%;
+  min-height: 1000px;
+  padding: 1%;
+  
+  
+}
+footer {
+  background-color: #323232;
+  text-align:left;
+  float: left;
+  padding: 1%;
+  color:white;
+  bottom:0px;
+  
+  width:98%;
+  font-family: 'Roboto', sans-serif;
+  
+  
+  
+  
+  
+}
+nav {
+  background-color: #323232;
+  
+  
+  
+  
+}
+.nav_right_top_menu{
+  width: 100%;
+  
+  min-height: 45px;
+  
+}
+.right_top_menu{
+  list-style: none;
+  
+  margin: 0;
+  padding-left: 0;
+  
+}
+.a_top_menu {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.li_top_menu{
+  float: left;
+  padding: 10px ;
+}
+
+.logo {
+  text-decoration: none;
+}
+.bt_top_menu{
+  background-color: #555555;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 2px;
+}
+.no_emphasis {
+  text-decoration: none;
+  color: #303030;
+}
+.navigation_boxers_page {
+  width: 60%;
+  height: 20px;
+  padding: 10px 20%;
+  background-color: #323232;
+
+}
+.nav_rght {
+  float: right;
+  text-decoration: none;
+  color: white;
+  padding: 0px 10px;
+}
+.nav_left {
+  float: left;
+  text-decoration: none;
+  color: white;
+  padding: 0px 10px;
+}
+.boxer_page {
+  padding: 30px 0px;
+}
+.boxer_page_bloc_info {
+  color: white;
+  float: left;
+  padding: 80px;
+}
+.boxer_page_bloc_left {
+  color: white;
+  float: left;
+  padding: 10px;
+}
+.boxer_list_1 {
+  
+  float: left;
+  height: 250px;
+  padding-left: 10px;
+}
+.boxer_list_11 {
+  height: 75px;
+}
+.boxer_list_2 {
+  
+  float: left;
+  height: 250px;
+  padding-left: 5%;
+}
+.boxer_list_21{
+  height: 75px;
+}
+
+.boxer_list_3 {
+  
+  float: right;
+  padding-right: 30px;
+  
+  
+}
+.boxer_list {
+  color: #e9e9e9;
+  width: 100%;
+  text-align:left;
+  height: 250px;
+  
+  background: linear-gradient(to top, #323232 70%, #b6b6b6 30%);
+  
+
+}
+
+.fight_list{
+  color: #e9e9e9;
+  width: 100%;
+  text-align:center;
+  height: 250px;
+  
+  background: linear-gradient(to top, #323232 70%, #b6b6b6 30%);
+}
+.fight_list_1{
+  float: left;
+  height: 250px;
+  width: 30%;
+}
+.fight_list_2 {
+  float: left;
+  height: 250px;
+  text-align: center;
+  
+  width: 40%;
+  
+}
+.fight_list_3 {
+  float: right;
+  height: 250px;
+  width: 30%;
+}
+
+.boxer_img {
+  border-radius: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+.grey_text{
+  color: #323232 ;
+}
+.text_center_vertical{
+  margin-top: 40px; 
+  
+}
+@font-face {
+  
+  font-family: 'Roboto', sans-serif;
+  
+  src: url("../fonts/Roboto-Thin.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
